@@ -6,12 +6,12 @@ Command: c4d-dev:setup
 ```{
     ...
     "require": {
-        "ec-europa/test-command": "x.x.x"
+        "nickopris/c4dev-dev-setup": "x.x.x"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ec-europa/test-command"
+            "url": "https://github.com/nickopris/c4dev-dev-setup"
         },
     ]
 }```
