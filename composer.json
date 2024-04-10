@@ -1,0 +1,12 @@
+{
+    "name": "nickopris/c4dev-dev-setup",
+    "require": {
+        "consolidation/robo": "^3.0 || ^4.0",
+        "consolidation/annotated-command": "^4.5 <4.5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "c4d-dev-setup\\": "./src/"
+        }
+    }
+}
