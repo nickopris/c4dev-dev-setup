@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace c4d-dev-commands\TaskRunner\Commands;
+namespace C4d-dev-commands\TaskRunner\Commands;
 
 use Robo\Tasks;
 
